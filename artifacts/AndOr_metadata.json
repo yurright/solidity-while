@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number",
+						"type": "uint256"
+					}
+				],
+				"name": "Numbers",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"and_or.sol": "AndOr"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"and_or.sol": {
+			"keccak256": "0xbc6c866bad7e66d4131fb5f6717592da1654d196d3ae5148072a0cd878afa891",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f8c5fc0bc037d9ec1a561669123b87d3bcd459846b0c62b7bf5186501e138b1e",
+				"dweb:/ipfs/QmdtmM94Ykcs8cpGMpMZ1Phpu3ATcyvRVkXotHBo9x9bw6"
+			]
+		}
+	},
+	"version": 1
+}
